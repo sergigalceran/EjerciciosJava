@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.sgalcean.threads;
+package edu.upc.eetac.dsa.sgalceran.threads;
 
 public class thread1 extends Thread{
 	
